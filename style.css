@@ -1,4 +1,4 @@
-.cabeçalho{background-color: rgb(63, 250, 0); 
+.cabeçalho{background-color: rgb(34, 122, 5); 
     color: #ff0000; 
     display: flex;
      justify-content: center; }
@@ -7,7 +7,8 @@
         width: 20%;
     }
     .sobre-escola{
-        background-color: aquamarine;
+        background-image: linear-gradient(#0f5803,#18c105f2);
         color: black;
+        padding: 24px 0;
         
     }
